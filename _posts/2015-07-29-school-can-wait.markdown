@@ -1,16 +1,17 @@
 ---
 layout:     post
 title:      "Back to School Too Soon"
-subtitle:   "Jewniversity of Pennsylgaysia"
+subtitle:   "Sophomore Year Here We Come"
 date:       2015-07-29
-author:     "Tali M."
-header-img: "img/pattys-bg.jpg"
+author:     "Rebecca L."
+header-img: "img/school/bighouse.jpg"
 category: school
 tags: [school]
 ---
 
-<h3>All my life, I feel like I've made the <i>right</i> choices.</h3>
+<h3>I've always loved  <i>learning</i> basically anything.</h3>
 
- nights, new soul mates, friends to call family. To crazy nights we can't remember, bad decisions that turn into great stories, moments that turn into memories. To losing our breath, getting our breath taken away, cheesy quotes, chasing views, constantly learning. To food that tastes so good we wish it never existed, trying everything once, embracing and welcoming the unknown.</p> 
+ <p>
+This summer I decided to break away from my routine summers at Camp Ramah and go learn Computer Science in South Africa. Why not? It was a little risky. But so rewarding. I went out of my comfort zone and ending up meeting incredible people, becoming a web developer and trying all sorts of crazy new things. The only thing was that I was seperated from my Michigan community.</p> 
 
-<h3>Above all, here's to missing home, because there's no place like it, but finding a new, unexpected one in the process.</h3>
+<h3>Here is to my Michigan family. I can't wait to be reunited in three weeks!</h3>
