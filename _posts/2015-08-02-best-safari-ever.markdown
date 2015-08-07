@@ -3,7 +3,7 @@ layout:     post
 title:      "safariii"
 subtitle:   "no whales but lots of cheetahs!"
 date:       2015-08-02
-author:     "Rebecca"
+author:     "Rebecca Shira"
 header-img: "img/3bffs.jpg"
 category: travel
 tags: [travel]

@@ -8,4 +8,4 @@ header-img: "img/me/mynameis.jpg"
 category: me
 tags: [me]
 ---
-<p>Hi I'm Rebecca! Some call me Leeman, or Bexter, or Limonana. Try and come up with a unique nickname for me.</p>
+<p>Hi I'm Rebecca! Some call me Leeman, or Bexter, or Limonana. Try and come up with a unique nickname for me. </p>
